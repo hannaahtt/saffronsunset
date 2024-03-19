@@ -1,14 +1,49 @@
-#title{ 
-
+#aboutusheading{ 
+    color: #400000; 
+    font-size: 60px;
+    } 
+    
+     
+    
+    .dt{ 
+    
+    font-weight: bold; 
+    
+    color: green; 
+    
+    font-size: 60px; 
+    
+    } 
+    
+     
+    
+    #h2{ 
+    
+    color: #400000; 
+    
+    font-size: 100px; 
+    
+    border-bottom: dotted; 
+    
+    } 
+    
+     
+    
+    #medfood{ 
+    
     margin-left: 20%; 
     
     } 
     
      
     
-    #test{ 
+    #logo{ 
     
-    float: right; 
+    margin-left: 25%; 
+    
+    width: 1000px; 
+    
+    height: 1000px; 
     
     } 
     
@@ -16,8 +51,38 @@
     
     #socials{ 
     
-    margin-left: 25%; 
+    margin-left: 20%; 
     
     } 
+    
+     
+    
+    #scroll{ 
+    
+    font-size: 190px; 
+    
+    } 
+
+    #about{
+        font-size: 20px;
+    }
+
+    #sustainable{
+        width: 1200px;
+        height: 1050;
+        margin-left: 20%;
+    }
+
+    .text{
+        font-size: 20px;
+    }
+
+    #utensils{
+        width: 2000;
+        height: 1320;
+        margin-left: 20%;
+    }
+    
+     
     
      
