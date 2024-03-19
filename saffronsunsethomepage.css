@@ -1,0 +1,87 @@
+#h1{
+    color: #400000;
+    font-family: "Allura", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 50px;
+    margin-top: 400px;
+    font-size: 210px;
+ }
+
+ #p1{
+    float: right;
+    margin-top: -390px;
+    margin-right: 1850px;
+    color: #400000;
+ }
+
+ #p2{
+    float: right;
+    margin-top: -390px;
+    margin-right: 1350px;
+    color: #400000;
+ }
+
+ #p3{
+    float: right;
+    margin-top: -390px;
+    margin-right: 830px;
+    color: #400000;
+ }
+
+ #p4{
+    float: right;
+    margin-top: -390px;
+    color: #400000;
+ }
+
+ #p5{ 
+    color: #400000; 
+    font-family: "Poppins", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    margin-left: 50px; 
+    font-size: x-large; 
+ } 
+
+ body{
+    background-image: url(frontpage.png);
+    background-repeat: no-repeat;
+ }
+    
+     
+ #drinks{
+    width: 900px;
+    height: 740px;
+    float: right;
+ }
+
+ #shawarma{
+    width: 900px;
+    height: 740px;
+    float: left;
+ }
+
+ #foodtruck{
+    width: 900px;
+    height: 740px;
+    float: right;
+ }
+
+ #satisfaction{
+    width: 930px;
+    height: 740px;
+    float: left;
+ }
+
+ #halalsign{
+    width: 980;
+    height: 620px;
+    float: right;
+ }
+
+ #food{
+    width: 900px;
+    height: 740px;
+    float: left;
+ }
+
+ #socials{
+    margin-left: 430px;
+ }
